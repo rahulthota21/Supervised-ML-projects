@@ -18,3 +18,16 @@ This is the project that predicts the house price in California. I am going to u
 - median_income (numeric - float ) : Median of the total household income of all the houses in the block
 - ocean_proximity (numeric - categorical ) : Type of the landscape of the block [ Unique Values : 'NEAR BAY', '<1H OCEAN', 'INLAND', 'NEAR OCEAN', 'ISLAND' ]
 - median_house_value (numeric - int ) : Median of the household prices of all the houses in the block
+
+## Methodology
+**Data Exploration:** Loaded and inspected the dataset.
+Explored statistical summaries and visualizations to understand data distributions. \
+**Data Preprocessing:** Handled missing values and outliers.
+Normalized or scaled features if necessary. \
+**Model Training:** Split the data into training and testing sets.
+Trained a Linear Regression model on the training data. \
+**Model Evaluation:** Evaluated model performance using R-squared score and residual analysis.
+Visualized predictions versus actual values to assess model accuracy.
+## Results:
+Analyzed the performance of the Linear Regression model. \
+Hence, We can predict the house prices
