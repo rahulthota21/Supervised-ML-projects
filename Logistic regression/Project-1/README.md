@@ -28,6 +28,8 @@ The dataset used in this project is the Breast Cancer Wisconsin dataset, which c
 
 The logistic regression model has been trained and evaluated for predicting breast cancer. The evaluation metrics provide insights into the model’s performance and its ability to classify instances correctly. This project demonstrates the application of logistic regression in a practical scenario and highlights the importance of data preprocessing and model evaluation.
 
+Kaggle Notebook Link : [Click here](https://www.kaggle.com/code/rahulthota21/breast-cancer-prediction)
+
 ## Author
 
 [Thota rahul]  
